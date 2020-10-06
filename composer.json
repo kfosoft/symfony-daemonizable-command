@@ -1,5 +1,5 @@
 {
-	"name": "wrep/daemonizable-command",
+	"name": "kfosoft/symfony-daemonizable-command",
 	"type": "library",
 	"description": "Daemonizable (endless running) commands for Symfony.",
 	"homepage": "https://github.com/mac-cain13/daemonizable-command",
